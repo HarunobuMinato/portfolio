@@ -10,8 +10,6 @@
 </p>
 <p align="center">
   <img src="./docs/images/hero-mobile-1.png" alt="BrawlLab Mobile View 1" width="200" />
-  <img src="./docs/images/hero-mobile-2.png" alt="BrawlLab Mobile View 2" width="200" />
-  <img src="./docs/images/hero-mobile-3.png" alt="BrawlLab Mobile View 3" width="200" />
 </p>
 
 ---
